@@ -1,0 +1,1 @@
+d:\pywork\venv\scripts\activate
